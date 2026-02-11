@@ -102,4 +102,5 @@ async def on_ready():
 async def teams_cmd(interaction: discord.Interaction):
     await interaction.response.send_message("🔽 **Seleziona un team:**", view=TeamView(), ephemeral=True)
 
-bot.run("MTQ3MTE4MzE0ODI3MTI3NjE0Mw.GEnyad.z482ASDQpvkb2WbiPatwqsXcXuL1YUQXtXrjrE")
+import os
+bot.run(os.getenv("DISCORD_TOKEN"))
