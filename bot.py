@@ -17,64 +17,64 @@ teams = {
 - **Loganniere** <:Top:1471188682613719232>
 - **Garu** <:Jungle:1471188589617479690>
 - **Raguzzo** <:Mid:1471188659545051156>
-- **Costa** <:ADC:965006363677835274>
-- **Ethan** <:Support:729065102321385566>""",
+- **Costa** <:Bot:1471188539717849109>
+- **Ethan** <:Support:1471188624207904900>""",
 
     "Dolphins 🐬": """### [__**Dolphins**__](https://op.gg/it/lol/multisearch/euw?summoners=PSICOPATICO%23SANGU%2CGadix1900%23ITALY%2CSkrall09%23EUW%2Cniekas%23goat%2Cthevoicessaymeow%23meow)
 - **Skrall** <:Top:1471188682613719232>
 - **Gadix** <:Jungle:1471188589617479690>
 - **Kerrel** *(TheVoicesSayMeow)* <:Mid:1471188659545051156>
-- **Nebbia** *(PSICOPATICO)* <:ADC:965006363677835274>
-- **Niekas** <:Support:729065102321385566>""",
+- **Nebbia** *(PSICOPATICO)* <:Bot:1471188539717849109>
+- **Niekas** <:Support:1471188624207904900>""",
 
     "Caimans 🐊": """### [__**Caimans**__](https://op.gg/it/lol/multisearch/euw?summoners=caimanosudatoII%23EUW%2CWaxflight%23EUW%2CLemonBuck%23EUW%2CBl00DK1lleR%23EUW)
 - *Assente* <:Top:1471188682613719232>
 - **Thomas** *(caimanosudatoII)* <:Jungle:1471188589617479690>
 - **Waxflight** <:Mid:1471188659545051156>
-- **Gabox** *(Bl00DK1lleR)* <:ADC:965006363677835274>
-- **Ale** *(LemonBuck)* <:Support:729065102321385566>""",
+- **Gabox** *(Bl00DK1lleR)* <:Bot:1471188539717849109>
+- **Ale** *(LemonBuck)* <:Support:1471188624207904900>""",
 
     "Octopus 🐙": """### [__**Octopus**__](https://op.gg/it/lol/multisearch/euw?summoners=판드레+바루스+원챔%23777%2COphiocordyceps98%23ANT%2CPocketcat%23kat%2Cmotivationless%23shiva%2CW+J+K+Long%23EUW)
 - **Carletto** *(motivationless)* <:Top:1471188682613719232>
 - **MastroMisciu** *(W J K Long)* <:Jungle:1471188589617479690>
 - **Pandre** *(판드레 바루스 원챔)* <:Mid:1471188659545051156>
-- **Ren** *(Pocketcat)* <:ADC:965006363677835274>
-- **Smilmito** *(Ophiocordyceps)* <:Support:729065102321385566>""",
+- **Ren** *(Pocketcat)* <:Bot:1471188539717849109>
+- **Smilmito** *(Ophiocordyceps)* <:Support:1471188624207904900>""",
 
     "Phoenix 🐦‍🔥": """### [__**Phoenix**__](https://op.gg/it/lol/multisearch/euw?summoners=buckati%23ITAS%2CPlsPeelMe%23adc%2CSheolded%23ITAS%2CTheFaKeKeria%23chill%2CSinonJason204%230069)
 - **Buckati** <:Top:1471188682613719232>
 - **Pablitos** *(Sheolded)* <:Jungle:1471188589617479690>
 - **Darius** *(TheFakeKeria)* <:Mid:1471188659545051156>
-- **MrY/Darius** *(PlsPeelMe/TheFakeKeria)* <:ADC:965006363677835274>
-- **Sinon/Darius** *(TheFakeKeria)* <:Support:729065102321385566>""",
+- **MrY/Darius** *(PlsPeelMe/TheFakeKeria)* <:Bot:1471188539717849109>
+- **Sinon/Darius** *(TheFakeKeria)* <:Support:1471188624207904900>""",
 
     "Bulls 🐂": """### [__**Bulls**__](https://op.gg/it/lol/multisearch/euw?summoners=babybroccol%23CKM%2CSCIPPO%231819%2CARANDLE9%23CKM%2CZore%23zore%2CLelou+Pendragon%23EUW%2C+il+devastatore%23eup%2C)
 - **Sysma** *(babybroccol)* <:Top:1471188682613719232>
 - **Scippo** <:Jungle:1471188589617479690>
 - **Zore/Davide** *(Il Devastatore)* <:Mid:1471188659545051156>
-- **Genfryx/Zore** *(Lelou Pendragon)* <:ADC:965006363677835274>
-- **Arandle** <:Support:729065102321385566>""",
+- **Genfryx/Zore** *(Lelou Pendragon)* <:Bot:1471188539717849109>
+- **Arandle** <:Support:1471188624207904900>""",
 
     "Foxes 🦊": """### [__**Foxes**__](https://op.gg/it/lol/multisearch/euw?summoners=baulo%23euw%2Csuperzilvietta%23EUW%2CBiankoniglio%23pdpm%2CSoulTaxCollector%23GVN%2CReira%23ITA%2Cdarkroxas1998%23euw)
 - **Roxas** <:Top:1471188682613719232>
 - **Bianco** *(Biankoniglio)* <:Jungle:1471188589617479690>
 - **SoulTax/Reira/Baulo** <:Mid:1471188659545051156>
-- **Silvia** *(superzilvietta)* <:ADC:965006363677835274>
-- **Bianco/SoulTax/Baulo** *(Biankoniglio)* <:Support:729065102321385566>""",
+- **Silvia** *(superzilvietta)* <:Bot:1471188539717849109>
+- **Bianco/SoulTax/Baulo** *(Biankoniglio)* <:Support:1471188624207904900>""",
 
     "Centaurs 🐎": """### [__**Centaurs**__](https://op.gg/it/lol/multisearch/euw?summoners=ShαdΘw%23suuus%2C+Kørø+Sensei%23EUW%2C+motivationless%23shiva%2C+CHRISTIAN+DIORE%23EUW%2C+AK47stylish%23EUW%2C)
 - **Kina** *(Kørø Sensei)* <:Top:1471188682613719232>
 - **Carletto** *(motivationless)* <:Jungle:1471188589617479690>
 - **Sirim** *(AK47stylish)* <:Mid:1471188659545051156>
-- **Shadow** <:ADC:965006363677835274>
-- **StillingLove** *(CHRISTIAN DIORE)* <:Support:729065102321385566>""",
+- **Shadow** <:Bot:1471188539717849109>
+- **StillingLove** *(CHRISTIAN DIORE)* <:Support:1471188624207904900>""",
 
     "Bats 🦇": """### [__**Bats**__](https://op.gg/it/lol/multisearch/euw?summoners=VitoMargarito%239640%2Cfreddy15153%23EUW%2CCappelloDiPaglia%23ONP%2CLadyB0506%23euw%2CJoyBoy%23Luch%C3%AC)
 - **VitoMargarito** <:Top:1471188682613719232>
 - **Barbarossa** *(CappelloDiPaglia)* <:Jungle:1471188589617479690>
 - **JoyBoy** <:Mid:1471188659545051156>
-- **Lady** <:ADC:965006363677835274>
-- **Freddy** <:Support:729065102321385566>"""
+- **Lady** <:Bot:1471188539717849109>
+- **Freddy** <:Support:1471188624207904900>"""
 }
 
 class TeamMenu(discord.ui.Select):
@@ -104,3 +104,4 @@ async def teams_cmd(interaction: discord.Interaction):
 
 import os
 bot.run(os.getenv("DISCORD_TOKEN"))
+
